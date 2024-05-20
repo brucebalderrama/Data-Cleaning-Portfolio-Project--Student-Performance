@@ -1,6 +1,6 @@
 -- Exploratory Data Analysis 
 
--- Selecting the data what we cleaned up in the previous project titled "Data Cleaing Project - Student Performance"
+-- Selecting the data what we cleaned up in the previous project titled "Data Cleaning Project - Student Performance"
 
 SELECT * 
 FROM student_performance.math_data_staging2;
